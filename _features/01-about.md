@@ -13,7 +13,7 @@ Wir sind eine wissenschaftlich-technische Ausgründung der Universität Konstanz
 | yx            | yx            | df    |
 | ------------- |:-------------:| -----:|
 | <img src="http://www.exist.de/SharedDocs/Bilder/DE/Logos/EXIST-Logo.png?__blob=normal"> | <img src="http://www.exist.de/SharedDocs/Bilder/DE/Logos/EXIST-Logo.png?__blob=normal"> | <img src="http://www.exist.de/SharedDocs/Bilder/DE/Logos/EXIST-Logo.png?__blob=normal"> |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Analyses Topics -- E-Commerce -- Retail -- Marketing --Social Media Applications       | centered      |   $12 |
+| -- Dashboarding -- Research Studies --Live-Monitoring | are neat      |    $1 |
 
 
