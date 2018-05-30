@@ -2,7 +2,7 @@
 id: about
 name: About
 heading: Über uns - 
-subheading: das EXIST-Gründerteam
+subheading: <p>das EXIST-Gründerteam</p>
 image: "http://www.exist.de/SharedDocs/Bilder/DE/Logos/ESF-Logos-Reihe.jpg?__blob=normal"
 ---
 
