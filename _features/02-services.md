@@ -8,17 +8,17 @@ image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3JUVXx11zq-Ll21Om
 
 Verarbeitung von Big Data im Bereich der Fernerkundungsdaten unter Einsatz moderner Artificial Intelligence- und Machine Learning-Methoden in der Cloud zur Klassifizierung großer Datenmengen. Die Algorithmen wenden wir zur Klassifizierung auf extern verfügbare Rohdaten an, mit Fokus auf den Bereich Bilderkennung und Bildverarbeitung (Computer Vision) von Fernerkundungsdaten (Remote Sensing Data)
 
-## Daten Aggregation
+### Daten Aggregation
 - Datenquellen sind Fernerkundungs-, Wetter- und Social Media-Daten
 - Klassifizierung von Rohdaten.
 - Einsatz von Geodatenbanken
 
-## Data Processing
+### Data Processing
 - Erkennung von Mustern in großen Datenmengen mit selbstlernenden Algorithmen und in der Kombination verschiedener Datenquellen.
 - Fokus auf den Bereich Bilderkennung und Bildverarbeitung (Computer Vision) von Fernerkundungsdaten (Remote Sensing Data).
 - Einsatz selbstadaptiver Deep Learning- und Machine Learning-Algorithmen
 
-## Data Delivery
+### Data Delivery
 - Develop Data-Driven-Solutions applying cutting-edge research.
 - Transfer Research Findings to real-world cases.
 - Develop marked-oriented solutions.
