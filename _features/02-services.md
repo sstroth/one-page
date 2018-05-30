@@ -1,9 +1,9 @@
 ---
 id: services
 name: Services
-heading: Was wir tun...
-subheading: ist anwendungsbezogene Datenverarbeitung.
-image: "http://placehold.it/500x500"
+heading: Was wir tun... 
+subheading:  ist anwendungsbezogene Datenverarbeitung.
+image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3JUVXx11zq-Ll21Om-4A3MvqG_tXZP3FOSSede9G96GO3YGA3"
 ---
 
 Verarbeitung von Big Data im Bereich der Fern- erkundungsdaten unter Einsatz moderner Artificial Intelligence- und Machine Learning-Methoden in der Cloud.
