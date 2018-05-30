@@ -2,7 +2,7 @@
 id: contact
 name: Contact
 heading: Satellitendaten
-subheading: Nano-Satellitenflotten im Weltraum.
+subheading: <p>Nano-Satellitenflotten im Weltraum.</p>
 image: "https://tubestatic.orf.at/static/images/site/tube/20170312/15_mai.5582999.jpg"
 ---
 
