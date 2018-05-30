@@ -12,12 +12,13 @@ Wir sind eine wissenschaftlich-technische Ausgründung der Universität Konstanz
 
 | yx            | yx            | df    |
 | ------------- |:-------------:| -----:|
-| <img src="http://www.exist.de/SharedDocs/Bilder/DE/Logos/EXIST-Logo.png?__blob=normal"> | <img src="http://www.exist.de/SharedDocs/Bilder/DE/Logos/EXIST-Logo.png?__blob=normal"> | <img src="http://www.exist.de/SharedDocs/Bilder/DE/Logos/EXIST-Logo.png?__blob=normal"> |
 | -- Analyses Topics -- E-Commerce -- Retail       | centered                        |   $12 |
 | -- Dashboarding                                  | Methods -- Recommender Systems  | xvzuiiz |
 | -- Dashboarding                                  | -- Gaussian Processes           |    $1 |
 | -- Research Studies --Live-Monitoring            | -- Deep Learning                |    $1 |
 | -- Marketing --Social Media Applications         | are neat                        |    $1 |
+
+<img src="http://www.exist.de/SharedDocs/Bilder/DE/Logos/EXIST-Logo.png?__blob=normal">
 
 
 
