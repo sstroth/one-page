@@ -12,9 +12,11 @@ Wir sind eine wissenschaftlich-technische Ausgründung der Universität Konstanz
 
 | yx            | yx            | df    |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| <img src="http://www.exist.de/SharedDocs/Bilder/DE/Logos/EXIST-Logo.png?__blob=normal" alt="Mountain View">
+     | <img src="http://www.exist.de/SharedDocs/Bilder/DE/Logos/EXIST-Logo.png?__blob=normal" alt="Mountain View">
+ | <img src="http://www.exist.de/SharedDocs/Bilder/DE/Logos/EXIST-Logo.png?__blob=normal" alt="Mountain View">
+ |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
 
-<img src="http://www.exist.de/SharedDocs/Bilder/DE/Logos/EXIST-Logo.png?__blob=normal" alt="Mountain View">
